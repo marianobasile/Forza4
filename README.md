@@ -1,5 +1,5 @@
 # Forza4
-Forza4's game implementation using Client/Server architecture. 
+
 
 The project consists in development of Forza4's game using Client/Server architecture. 
 Both the server and the client are mono-process and use I/O multiplexing to handle multiple input simultaneously. 
